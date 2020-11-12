@@ -1,0 +1,9 @@
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\JVHGameFramework\bin\Debug\netcoreapp3.1\JVHGameFramework.deps.json
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\JVHGameFramework\bin\Debug\netcoreapp3.1\JVHGameFramework.dll
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\JVHGameFramework\bin\Debug\netcoreapp3.1\JVHGameFramework.pdb
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\JVHGameFramework\obj\Debug\netcoreapp3.1\JVHGameFramework.csprojAssemblyReference.cache
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\JVHGameFramework\obj\Debug\netcoreapp3.1\JVHGameFramework.csproj.CoreCompileInputs.cache
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\JVHGameFramework\obj\Debug\netcoreapp3.1\JVHGameFramework.AssemblyInfoInputs.cache
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\JVHGameFramework\obj\Debug\netcoreapp3.1\JVHGameFramework.AssemblyInfo.cs
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\JVHGameFramework\obj\Debug\netcoreapp3.1\JVHGameFramework.dll
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\JVHGameFramework\obj\Debug\netcoreapp3.1\JVHGameFramework.pdb

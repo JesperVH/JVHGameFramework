@@ -1,0 +1,16 @@
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\FrameWorkProgram\bin\Debug\netcoreapp3.1\FrameWorkProgram.exe
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\FrameWorkProgram\bin\Debug\netcoreapp3.1\FrameWorkProgram.deps.json
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\FrameWorkProgram\bin\Debug\netcoreapp3.1\FrameWorkProgram.runtimeconfig.json
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\FrameWorkProgram\bin\Debug\netcoreapp3.1\FrameWorkProgram.runtimeconfig.dev.json
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\FrameWorkProgram\bin\Debug\netcoreapp3.1\FrameWorkProgram.dll
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\FrameWorkProgram\bin\Debug\netcoreapp3.1\FrameWorkProgram.pdb
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\FrameWorkProgram\bin\Debug\netcoreapp3.1\JVHGameFramework.dll
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\FrameWorkProgram\bin\Debug\netcoreapp3.1\JVHGameFramework.pdb
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\FrameWorkProgram\obj\Debug\netcoreapp3.1\FrameWorkProgram.csprojAssemblyReference.cache
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\FrameWorkProgram\obj\Debug\netcoreapp3.1\FrameWorkProgram.csproj.CoreCompileInputs.cache
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\FrameWorkProgram\obj\Debug\netcoreapp3.1\FrameWorkProgram.AssemblyInfoInputs.cache
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\FrameWorkProgram\obj\Debug\netcoreapp3.1\FrameWorkProgram.AssemblyInfo.cs
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\FrameWorkProgram\obj\Debug\netcoreapp3.1\FrameWorkProgram.csproj.CopyComplete
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\FrameWorkProgram\obj\Debug\netcoreapp3.1\FrameWorkProgram.dll
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\FrameWorkProgram\obj\Debug\netcoreapp3.1\FrameWorkProgram.pdb
+C:\Users\Jesper Hansen\source\repos\JVHGameFramework\FrameWorkProgram\obj\Debug\netcoreapp3.1\FrameWorkProgram.genruntimeconfig.cache

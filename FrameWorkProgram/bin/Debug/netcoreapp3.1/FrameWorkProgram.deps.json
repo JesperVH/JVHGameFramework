@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FrameWorkProgram/1.0.0": {
+        "dependencies": {
+          "JVHGameFramework": "1.0.0"
+        },
+        "runtime": {
+          "FrameWorkProgram.dll": {}
+        }
+      },
+      "JVHGameFramework/1.0.0": {
+        "runtime": {
+          "JVHGameFramework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FrameWorkProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JVHGameFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
